@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mi11lite &#8211; H2 Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/mi11lite/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Cellphones store </description>
+	<lastBuildDate>Fri, 02 Jul 2021 14:57:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/07/0013661_H2-Shop_manji-2.jpeg</url>
+	<title>mi11lite &#8211; H2 Shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Điện thoại Xiaomi Mi 11 Lite</title>
+		<link>./../../../sản%20phẩm/dien-thoai-xiaomi-mi-11-lite/index.html</link>
+					<comments>./../../../sản%20phẩm/dien-thoai-xiaomi-mi-11-lite/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Ngô Hoàng Gia Bảo]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 14:06:41 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=657</guid>
+
+					<description><![CDATA[Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Ốp lưng, Cáp Type C, Củ sạc nhanh rời đầu Type A, Tai nghe dây
+
+1 đổi 1 trong 101 ngày đối với sản phẩm lỗi]]></description>
+										<content:encoded><![CDATA[<h3><a title="Tham khảo điện thoại Mi 11 Lite tại Thegioididong.com " href="https://www.thegioididong.com/dtdd/xiaomi-mi-11-lite-4g" target="_blank" rel="noopener">Xiaomi Mi 11 Lite</a> là phiên bản thu gọn của <a title="Tham khảo điện thoại Mi 11 tại Thegioididong.com " href="https://www.thegioididong.com/dtdd/xiaomi-mi-11" target="_blank" rel="noopener">Xiaomi Mi 11 5G</a> được ra mắt trước đó. Thừa hưởng nhiều ưu điểm của đàn anh, Mi 11 Lite hoàn toàn có thể đáp ứng tốt các tác vụ thông thường một cách dễ dàng và đặc biệt hơn máy có thiết kế vô cùng mỏng nhẹ và thời trang.</h3>
+<h3>Hiệu năng vượt trội với Snapdragon 732G</h3>
+<p>Mi 11 Lite trang bị con chip đến từ Qualcomm, sản xuất trên tiến trình 8 nm sẵn sàng cùng bạn chiến mọi tựa game phổ biến hiện nay với tốc độ tối đa lên đến 2.3 GHz.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-658" src="./../../../wp-content/uploads/2021/06/xiaomi-mi-11-lite-4g-22.jpg" alt="" width="800" height="533" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/dien-thoai-xiaomi-mi-11-lite/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
